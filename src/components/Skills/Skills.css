@@ -1,0 +1,88 @@
+#layout{
+    position: absolute;
+    height: 85%;
+    width: 100%;
+    overflow:scroll;
+    scrollbar-width: none;
+}
+#Skills{
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    height: 80%;
+    width: 20%;
+    left: 5%;
+    background: rgba( 255, 255, 255, 0 ) !important;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 10px );
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    overflow-x: hidden;
+    scrollbar-width: none;
+}
+#Skills > h1{
+    top: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-bottom: 1px solid white;
+}
+#Skills > div{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#Skills > div > span{
+background-color: white;
+padding: 10px;
+margin: 10px;
+border-radius: 10px;
+}
+
+#certificate{
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    height: 80%;
+    width: 65%;
+    left: 30%;
+    background: rgba( 255, 255, 255, 0 ) !important;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 10px );
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    overflow-x: hidden;
+}
+#certificate > h1{
+    top: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+@media screen and (max-width: 768px){
+    #Skills{
+        position: absolute;
+        text-align: center;
+        top: 10%;
+        height: 50%;
+        width: 90%;
+        left: 5%;
+    }
+    #Skills > div{
+        display: grid;
+        grid-template-columns: 50% 50% ;
+    }
+    #certificate{
+        position: absolute;
+        text-align: center;
+        top: 65%;
+        height: 80%;
+        width: 90%;
+        left: 5%;
+    }
+}
