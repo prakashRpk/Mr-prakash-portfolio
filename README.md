@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information in a clean, modern layout.
 
+---
+
 ## 🚀 Features
 
 - Responsive and clean design
@@ -10,12 +12,16 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Contact form (if applicable)
 - Easy to customize
 
+---
+
 ## 🛠️ Built With
 
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome (for icons)
+
+---
 
 ## 📁 Folder Structure
 
@@ -30,10 +36,13 @@ Mr-prakash-portfolio/
 ├── index.html
 └── README.md
 
+---
 
 ## 🌐 Live Demo
 
 [Click here to view live](https://your-username.github.io/Mr-prakash-portfolio/)  
+
+---
 
 ## 🧑‍💻 Author
 
