@@ -37,9 +37,13 @@ Mr-prakash-portfolio/
 
 ## 🧑‍💻 Author
 
-**Prakash R**  
-- [GitHub](https://github.com/prakashRpk)
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(if available)*
+- **Prakash R**  
+  [GitHub](https://github.com/prakashRpk)  
+  [LinkedIn](https://www.linkedin.com/in/mr-prakash/)
+  [Instagram](https://www.instagram.com/hello_mr_prakash/)
+
+---
+
 
 ## 📜 License
 
