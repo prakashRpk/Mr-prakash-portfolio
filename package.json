@@ -1,4 +1,5 @@
 {
+  "homepage": "https://prakashRpk.github.io/Mr-prakash-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +18,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://prakashRpk.github.io/Mr-prakash-portfolio",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
