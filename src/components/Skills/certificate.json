@@ -1,15 +1,9 @@
 [
     {
-        "certificate-name":"",
-        "certificate-img":""
+        "certificate-name":"open weaver (html-css certificate)",
+        "certificate-img":"certificate/open weaver html-css.png"
     },    {
-        "certificate-name":"",
-        "certificate-img":""
-    },    {
-        "certificate-name":"",
-        "certificate-img":""
-    },    {
-        "certificate-name":"",
-        "certificate-img":""
+        "certificate-name":"Great Learning (java - certificate)",
+        "certificate-img":"certificate/Prakash-java- course.jpg"
     }
 ]
