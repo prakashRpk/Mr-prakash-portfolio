@@ -63,6 +63,14 @@ border-radius: 10px;
     color: white;
     border-bottom: 1px solid white;
 }
+#certificate > div{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 50px;
+}
+#certificate > div >div{
+    margin: 30px;
+}
 
 @media screen and (max-width: 768px){
     #Skills{

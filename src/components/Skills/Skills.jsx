@@ -13,7 +13,7 @@ export default function Skills(){
    </div>
    <div id='certificate'>
     <h1>certificate</h1>
-
+    <div>
         {Certificate.map((item)=>
         <Card id='card'>
         <Card.Img variant="top" src={item['certificate-img']} />
@@ -21,6 +21,7 @@ export default function Skills(){
           <Card.Title>{item['certificate-name']}</Card.Title>
         </Card.Body>
       </Card>)}
+    </div>
    </div>
    </div>
     </>)
