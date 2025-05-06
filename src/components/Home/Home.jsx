@@ -6,7 +6,7 @@ export default function Home(){
         <img src={img} alt=""  />
         <div>
         <h1>I'm prakash</h1>
-        <p>I'm an aspiring full-stack developer passionate about creating innovative websites and
+        <p>I'm full-stack developer passionate about creating innovative websites and
 applications. With a strong foundation in both front-end and back-end technologies, I aim to bring
 ideas to life through seamless, user-friendly digital experiences. Currently, I am honing my skills in HTML,
 CSS, JavaScript, and various backend frameworks, with the goal of developing my own projects and

@@ -1,3 +1,7 @@
+*{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
 #home{
     position: absolute;
     top: 10%;
@@ -30,6 +34,27 @@
     left: 25%;
     color: white;
 }
+#home
+{
+    h1{
+        font-size: 40px;
+        margin-top: -30px;
+        text-decoration: underline;
+    }
+    p{
+        font-size: 15px;
+        padding: 5px 20px 0px 0px;
+    }
+    h3{
+        font-size: 35px;
+        text-decoration: underline;
+    }
+    h6{
+        font-size: 20px;
+    }
+} 
+
+
 @media screen and (max-width: 768px)
 {
     #home img{
