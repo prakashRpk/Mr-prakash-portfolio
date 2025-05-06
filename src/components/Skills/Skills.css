@@ -54,6 +54,7 @@ border-radius: 10px;
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
     overflow-x: hidden;
+    scrollbar-width: none;
 }
 #certificate > h1{
     top: 10px;
@@ -92,5 +93,11 @@ border-radius: 10px;
         height: 80%;
         width: 90%;
         left: 5%;
+    }
+    #certificate > div{
+        grid-template-columns: 100%;
+    }
+    #certificate > div >div{
+        margin: 0px;
     }
 }
